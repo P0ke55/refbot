@@ -1,0 +1,6 @@
+squad:SquadCommand
+score:scoreboard:lb:leaderboard:ScoreCommand
+hack:HackCommand
+reportwin:report:ReportCommand
+clear:ClearCommand
+uptime:UptimeCommand
